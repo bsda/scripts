@@ -4,7 +4,7 @@ Some ugly scripts used to generate some useful custom logs from aws to be ingest
 
 
 ## splunk_aws_credentials_report.py
-Downloads the usual Credential Reports and adds the access keys for each user and which groups the user is a mamber of
+Downloads the usual Credential Reports and adds the access keys for each user and which groups the user is a member of
 
 
 ## splunk_aws_public_ip_summary.py
